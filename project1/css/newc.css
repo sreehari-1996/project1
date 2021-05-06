@@ -1,0 +1,531 @@
+
+.main-sec1{
+	position: relative;
+margin-top: 10vh;
+}
+@media screen and (max-width: 600px) {
+	.main-sec1{
+	position: relative;
+	margin-top: 0vh;
+}
+}
+#investcap{
+	width:80%;
+	padding: 10px;
+	display: block;
+	position: relative;
+}
+#investcap h2{
+	position: relative;
+	font-size: 38px;
+}
+#investcap span{
+	position: relative;
+	font-size: 40px;
+	font-weight: bold;
+
+}
+#invet-para{
+	position: relative;
+	margin-left:1vh;
+	width:79%;
+	margin-top:8px;
+	font-weight:bold;
+}
+#invet-para p{
+	color: gray !important;
+	line-height:30px;
+}
+#img-proper {
+	width:100%;
+	position: relative;
+}
+#img-proper img{
+	position: relative;
+	width:100%;
+	display: block;
+}
+#success{
+	position: relative;
+	margin-top: 1vh;
+}
+#success span{
+	position: relative;
+	font-size:15px;
+	display:block;
+}
+.Trustedby{
+	display: block;
+	position: relative;
+	background-color:#e5fcf4;
+	padding:20px;
+
+	width:100%;
+}
+#bymillon{
+	position: relative;
+	display: block;
+
+}
+#bymillon h4{
+	position: relative;
+	font-size: 22px !important;
+	font-weight: bold;
+}
+#desc-bymiion span{
+	position: relative;
+	margin-top: 1vh;
+	padding: 1vh;
+	display: block;
+	color: gray;
+	line-height:5vh;
+}
+.logoimg {
+	display: block;
+	position: relative;
+	text-align: center;
+	margin:0 auto;
+}
+.logoimg ul{
+	display: -webkit-inline-box !important;
+}
+.logoimg ul li{
+	float: left;
+	position: relative;
+	margin-left:1.5vh;
+	list-style: none !important;
+	
+}
+/*@media only screen and (max-width: 600px) {
+ 	.logoimg ul li{
+ 		padding:0px !important;
+
+	}
+	#logo-1{
+		margin-left:0px !important;
+	}
+}
+*/
+#logo-1{
+	width: 100%;
+	position: relative;
+	border:3px solid #dbf9f1;
+	border-radius: 7px 7px 7px 7px;
+	text-align: center;
+	padding: 1vh;
+	z-index: 1000;
+	
+	
+	
+}
+
+#logo-1 h6{
+	font-size:12px;
+}
+.main-imgsec{
+	position: relative;
+	margin-top: 2vh;
+	width: 100%;
+	text-align: center;
+	display: block;
+}
+.main-imgsec img{
+	width: 80%;
+	position: relative;
+	text-align: center;
+	padding: 1vh;
+
+}
+.About-mutul{
+	position: relative;
+	margin-top: 2vh;
+	margin-left: 2vh;
+}
+.About-mutul #mutual-fund h5{
+	position: relative;
+	letter-spacing: 1px;
+	color: gray;
+}
+.About-mutul #lernwith  h2{
+	font-weight: bold;
+	position: relative;
+	margin-top: 2vh;
+	font-size: 30px;
+
+}
+#option-select{
+	position: relative;
+	margin-top: 3vh;
+	padding: 1vh;
+
+}
+.About-mutul .form-check-label{
+	margin-bottom:20px !important;
+}
+#option-select label{
+	color:gray;
+}
+.know-more{
+	display: flex;
+	position: relative;
+	
+}
+.know-more span {
+	color: white;
+	position: relative;text-align: center;
+}
+.know-more h4{
+	position: relative;
+	font-size: 19px;
+	margin-left:3vh;
+	margin-top:1vh;
+	color: #4bd0ab;
+	font-weight: bold;
+}
+.know-more p{
+	position: relative;
+	margin-left:3vh;
+}
+.ask-expert{
+	width:100%;
+	margin-top:4vh;
+	background-color:#eefaf6;
+	position: relative;
+	
+}
+#ask-ques{
+	position:relative;
+	
+	display: block;
+	margin-top: 8vh;
+
+
+
+}
+#ask-ques h2{
+	font-weight: bold;
+
+}
+
+#youcan p{
+	position: relative;
+	font-size: 16px;
+	color: gray;
+	margin-top: 2vh;
+	
+}
+.second-part{
+	position: relative;
+	display: flex;
+}
+#money-sec h4{
+	font-weight: bold;
+	opacity: 0.6;
+	font-size: 22px;
+}
+#money-sec1 h4{
+	position: relative;
+	font-weight: bold;
+	opacity: 0.6;
+	font-size: 22px;
+}
+#money-sec1 {
+	position: relative;
+	margin-left:10vh;
+}
+#money-sec1 img{
+	text-align: center;
+}
+#money-sec p{
+	margin-top:2vh;
+	position: relative;
+	font-size: 15px;
+	width:204px;
+	text-align: center;
+	text-align: justify;
+}
+#money-sec1 p{
+	margin-top:2vh;
+	position: relative;
+	font-size: 15px;
+	width:204px;
+	text-align: justify;
+	text-align: center;
+}
+
+.ask-quesimg{
+	position: relative;
+	text-align:center;
+	display: block;
+	width:100%;
+	margin-top: 10vh;
+}
+.ask-quesimg img{
+	display: block;
+	width:100%;
+	max-height:630px;
+}
+.manageyour-ac{
+	position: relative;
+	
+	margin-top: 8vh;
+}
+.manageyour-ac h2{
+	position: relative;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+}
+#descmanag{
+	text-align: center;
+	position: relative;
+	margin-top: 3vh;
+}
+#descmanag span{
+	text-align: center;
+	width:50%;
+	
+	color: gray;
+}
+#Downloadapp h3{
+	position: relative;
+	margin-top:2vh;
+	text-align: center;
+	font-size: 24px;
+	font-weight: bold;
+}
+#Downloadapp{
+	text-align: center;
+	margin-top:2vh;
+	position: relative;
+}
+.main-footer{
+	 background: #fff;
+  border-radius: 2px;
+ 	box-shadow: 0 1px 3px rgba(4,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  position: relative;
+  margin-top:4vh;
+  padding: 4vh;
+  
+}
+#neo-funds{
+	margin-left: 2vh;
+	position: relative;
+	display: block;
+
+}
+#neo-funds h3{
+	font-size: 30px;
+	font-weight: bold;
+	position: relative;
+	margin-top:1vh;
+	margin-left: 4vh;
+	letter-spacing: 1vh;
+}
+#neo-fundslogo img{
+	position: relative;
+	margin-left: 4vh;
+		
+
+
+}
+.quick-links{
+	display: block;
+	position: relative;
+
+}
+.quick-links p{
+	text-align: center;
+	position: relative;
+	font-size:14px;
+	font-weight: bold;
+	color:#000 !important;
+}
+
+.quick-links li{
+	list-style: none;
+	position: relative;
+	font-size:12px;
+	line-height:4vh;
+	text-align: center;
+	font-weight: bold;
+	color:gray !important;
+}
+.quick-links{
+	display: block;
+	position: relative;
+
+}
+.quick-links1 p{
+	text-align: center;
+	position: relative;
+	font-size:14px;
+	margin-top:2vh;
+	font-weight: bold;
+	color:#000 !important;
+}
+
+.quick-links1 li{
+	list-style: none;
+	position: relative;
+	font-size:12px;
+	line-height:4vh;
+	bottom:1vh;
+	text-align: center;
+	font-weight: bold;
+	color:gray !important;
+}
+.mian-suc{
+	border-top: 1px solid gray;
+	width:100%;
+}
+.mian-suc ul li{
+	list-style: none;
+	
+	position: relative;
+}
+#fafa ul li{
+	float: right;
+	letter-spacing: 5vh;
+	display: inline;
+	margin-top:1vh;
+	position: relative;
+}
+#copy{
+	margin-top:1vh;
+	position: relative;
+}
+#copy li{
+	list-style: none;
+}
+#investingsesy {
+	position: relative;
+	margin-top:1vh;
+
+}
+#investingsesy h4{
+	font-weight: bold;
+	font-size: 20px;
+}
+#invest-desc{
+	position: relative;
+	width:100%;
+	overflow: hidden;
+	margin-top:2vh;
+	text-align: justify;
+
+}
+#invest-desc span{
+	text-align: justify;
+	text-indent: 10px;
+	line-height: 3vh;
+	color: gray;
+	letter-spacing: 1px;
+	overflow: hidden;
+}
+#mian-but {
+	position: relative;
+	margin-top:3vh;
+}
+#mian-but button{
+	width:70%;
+	background-color: #00d09c;
+	padding: 0px !important;
+}
+#mian-but p{
+	color: #fff;
+	font-weight: bold;
+	margin-top:1vh;
+	font-size: 14px;
+	position: relative;
+}
+.container-fluid, .container-lg, .container-md, .container-sm, .container-xl{
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+}
+#img-sec100{
+	position: relative;
+	margin-top: 2vh;
+}
+#success button{
+	width:30%;
+	background-color: #00d09c;
+	padding: 10px !important;
+}
+.know-more button{
+	width:47%;
+	background-color: #00d09c;
+	padding: 10px !important;
+}
+.neo-funds{
+	position: relative;
+	display: flex;
+	margin-top: 2vh;
+}
+.neo-funds h2{
+	position: relative;
+	font-weight: bold;
+	font-size: 25px;
+	margin-top: 4vh;
+	letter-spacing: 2px;
+	margin-right:2vh;
+}
+.neo-funds img{
+	position: relative;
+	width:70%;
+
+}
+.main-heas {
+	position: relative;
+	margin-top: 4vh;
+
+}
+.main-heas ul li{
+	
+	list-style: none;
+	font-size: 13px;
+	position: relative;
+margin-top: 6vh;
+	color:gray;
+}
+.main-heas ul li a{
+	
+	list-style: none;
+	font-size: 13px;
+	float: left;
+	font-weight: bold;
+	margin-left: 5vh;
+	
+	color:gray;
+}
+.topnav input[type=text] {
+  
+ 
+  border:1px solid #e1e1e1;
+  margin-top: 0px;
+  border-radius: 4px 4px 4px 4px;
+  width:100%;
+
+  background-color: #f1f1f1;
+  
+  font-size: 15px;
+}
+#mybutton {
+    outline: none;
+    position: fixed;
+    bottom: -4px;
+    color: #fff;
+    border-radius: 50%;
+    z-index: 8766565;
+    right: 10px;
+}
+.feedback {
+    border-radius: 70%;
+    border-color: #fff;
+    overflow: hidden;
+    outline: none !important;
+    display: inline-block;
+}
+.btn-danger{
+	background-color: #fff !important;
+}
